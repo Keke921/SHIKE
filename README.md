@@ -23,7 +23,7 @@ stay tuned for it～
 Data augmentation in SHIKE mainly follows [BalancedMetaSoftmax](https://github.com/jiawei-ren/BalancedMetaSoftmax-Classification) and [PaCo](https://github.com/dvlab-research/Parametric-Contrastive-Learning).
 
 
-## You May Find Our Additional Works of Interest
+### You May Find Our Additional Works of Interest
 
 * [CVPR'22] Long-tailed visual recognition via Gaussian clouded logit adjustment [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Long-Tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment_CVPR_2022_paper.pdf)] [[code](https://github.com/Keke921/GCLLoss)]
 
@@ -34,4 +34,19 @@ Data augmentation in SHIKE mainly follows [BalancedMetaSoftmax](https://github.c
 * [NeurIPS'24] Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition [[paper](https://arxiv.org/pdf/2410.21042)] [[code](https://github.com/Keke921/GNM-PT)]
 
 * [TAI'24] Adjusting logit in Gaussian form for long-tailed visual recognition [[paper](https://arxiv.org/pdf/2305.10648)] [[code](https://github.com/Keke921/GCLLoss)]
+
+
+## Misc
+
+If you find our paper and repo useful, please cite our paper:
+
+```bibtex
+@InProceedings{Jin_2023_CVPR,
+    author    = {Jin, Yan and Li, Mengke and Lu, Yang and Cheung, Yiu-ming and Wang, Hanzi},
+    title     = {Long-Tailed Visual Recognition via Self-Heterogeneous Integration With Knowledge Excavation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {23695-23704}
+}
 
