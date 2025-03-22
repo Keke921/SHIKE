@@ -36,7 +36,7 @@ Data augmentation in SHIKE mainly follows [BalancedMetaSoftmax](https://github.c
 * [TAI'24] Adjusting logit in Gaussian form for long-tailed visual recognition [[paper](https://arxiv.org/pdf/2305.10648)] [[code](https://github.com/Keke921/GCLLoss)]
 
 
-## Misc
+### Misc
 
 If you find our paper and repo useful, please cite our paper:
 
